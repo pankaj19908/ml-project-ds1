@@ -32,6 +32,8 @@ import threading
 import MySQLdb
 jjjj
 
+jjkjkjhjhjhgjhgjh
+
 kafka = KafkaClient('localhost:9092')
 producer = SimpleProducer(kafka, async=False)
 
